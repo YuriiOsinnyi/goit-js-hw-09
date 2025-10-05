@@ -1,5 +1,6 @@
 .feedback-form {
     width: 480px;
+
 }
 
 .feedback-form>label {
@@ -18,4 +19,10 @@
 
 .feedback-form textarea {
     resize: none;
+}
+
+.wrapp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
